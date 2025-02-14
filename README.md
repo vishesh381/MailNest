@@ -25,3 +25,15 @@ MailNest is a basic Gmail clone application created using React JS to learn the 
 
 ##Click Here to Watch: https://youtu.be/Aqyy1s5tyrk
 
+##Install Dependencies
+
+1. npm i react-router-dom
+2. npm i react-icons
+3. npm list tailwindcss
+4. npm install date-fns
+5. npm i redux-persist
+6. npm i axios
+7. npm i @reduxjs/toolkit react-redux
+8. npm create vite@latest
+
+
