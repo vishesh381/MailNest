@@ -19,8 +19,11 @@ MailNest is a basic Gmail clone application created using React JS to learn the 
 ![Main Page Screenshot](https://github.com/user-attachments/assets/11ba6fce-fab6-4d16-9c3f-987d7171b982)
 
 ### Compose Email
-![Compose Screenshot](https://github.com/user-attachments/assets/04d2dce2-0180-4e93-a31a-703fbca3dbea)
+![Compose Screenshot]()
 
-### Settings
+### Dark Mode
 ![Settings Screenshot](https://github.com/user-attachments/assets/f536b975-f0ee-45eb-8a38-e2598991b828)
+
+Video Recording:
+Click Here to Watch: https://youtu.be/Aqyy1s5tyrk
 
