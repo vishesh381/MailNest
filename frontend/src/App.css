@@ -1,0 +1,18 @@
+  /* Add more styles to customize the dropdown */
+  /* Light Theme */
+.bg-gray-100 {
+    background-color: #f6f8fc;
+}
+
+.text-black {
+    color: black;
+}
+
+/* Dark Theme */
+.bg-gray-800 {
+    background-color: #2d3748;
+}
+
+.text-white {
+    color: white;
+}

@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
+ /* Light theme */
+body.light {
+  background-color: #F6F8FC;
+  color: #000;
+}
+
+/* Dark theme */
+body.dark {
+  background-color: #2f2f2f;
+  color: #fff;
+}
